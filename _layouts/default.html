@@ -8,9 +8,9 @@
     </head>
     <body>
         <div class="header">
-            <a href="{% link posts.md %}">Posts</a>
-            <a href="{% link recipes.md %}">Recipes</a>
-            <a href="{% link restaurants.md %}">Restaurants</a>
+            <a href="{{ site.baseurl }}{% link posts.md %}">Posts</a>
+            <a href="{{ site.baseurl }}{% link recipes.md %}">Recipes</a>
+            <a href="{{ site.baseurl }}{% link restaurants.md %}">Restaurants</a>
         </div>
         <div class="content">
             {{content}}
