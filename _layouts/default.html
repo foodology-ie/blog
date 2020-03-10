@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{site.language}}">
+    <head>
+        <meta charset="utf-8">
+
+        <link rel="stylesheet" href="{{ "/assets/css/normalize.css" | absolute_url }}" />
+        <link rel="stylesheet" href="{{ "/assets/css/style.css" | absolute_url }}" />
+    </head>
+    <body>
+        <div class="header">
+            <a href="{% link posts.md %}">Posts</a>
+            <a href="{% link recipes.md %}">Recipes</a>
+            <a href="{% link restaurants.md %}">Restaurants</a>
+        </div>
+        <div class="content">
+            {{content}}
+        </div>
+        <div class="footer">
+        </div>
+
+
+        <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+    </body>
+</html>

@@ -1,0 +1,13 @@
+baseurl: "/blog"
+url: ""
+
+# Build settings
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+collections:
+  recipes:
+    output: true
+  restaurants:
+    output: true

@@ -1,0 +1,9 @@
+.grid { margin: 0 auto; }
+.grid .cell {
+    width: 320px;
+    margin-bottom: 10px;
+}
+
+.grid .cell img {
+    width: 100%;
+}
