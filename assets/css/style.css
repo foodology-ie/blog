@@ -31,7 +31,7 @@ a:hover, a:active {
   color: #000;
   padding: 5px 10px;
   margin-left: 5px;
-  line-height: 1.8em;
+  line-height: 2.2em;
   font-size: 1.2rem;
 }
 
@@ -64,4 +64,5 @@ a:hover, a:active {
 .content .page img {
   display: block;
   margin: 0 auto;
+  max-width: 100%;
 }
