@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Spiced Apple Cake
+image: /assets/images/recipes/spiced-apple-cake.png
 ---
-
-![Spiced Apple Cake]({{ "/assets/images/recipes/spiced-apple-cake.png" | absolute_url }})
 
 Ottolenghi's Spiced apple cake is the perfect winter evening comfort cake. Served warm with sour cream or some vanilla ice cream. The cake mixture is a very thick batter. Organically spread the apples across the top of the mixture. If you don't have the mixture of different types of apples just work with what you have.
 

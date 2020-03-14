@@ -1,9 +1,8 @@
 ---
 layout: page
 title: White chocolate, raspberry and pomegranate cheesecake
+image: /assets/images/recipes/white-chocolate-raspberry-and-pomegranate-cheesecake.jpg
 ---
-
-![Spiced Apple Cake]({{ "/assets/images/recipes/white-chocolate-raspberry-and-pomegranate-cheesecake.jpg" | absolute_url }})
 
 This cheesecake recipe was taken from Feel Good Food Woman & Home Christmas edition. It was the best of successes. A great cheesecake that can be made in advance and holds up well for breakfast the next day!
 

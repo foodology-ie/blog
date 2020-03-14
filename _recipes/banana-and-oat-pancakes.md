@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Banana & Oat pancakes!
+image: /assets/images/recipes/banana-and-oat-pancakes.jpg
 ---
-
-![Banana & Oat pancakes!]({{ "/assets/images/recipes/banana-and-oat-pancakes.jpg" | absolute_url }})
 
 These must be the best go to breakfast I love have at the moment. I really enjoy them after the gym. They feels like an utter treat when making them after a workout without undoing all the good work in the gym! Such a flexiable recipe - think chocolate chips, blueberries or even some coconut throughout! The tick to these guys is not to turn them too soon as they will fall apart. Be paitaint cook on a low to medium heat and wait, wait, wait until your turn them over.
 

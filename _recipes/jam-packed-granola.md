@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Jam-packed Granola
+image: /assets/images/recipes/jam-packed-granola.png
 ---
-
-![Jam-packed Granola]({{ "/assets/images/recipes/jam-packed-granola.png" | absolute_url }})
 
 This granola changes everytime as I don't stick strictly to the fruits, nuts and seeds. Feel free to change it up and add what ingredients you have in the cupboard. I like to use large curls of coconut as the desiccated coconut just disappears
 

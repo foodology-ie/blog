@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Battenberg Cake
+image: /assets/images/recipes/battenberg-cake.jpg
 ---
-
-![Battenberg Cake]({{ "/assets/images/recipes/battenberg-cake.jpg" | absolute_url }})
 
 - 175g Butter
 - 175g Caster sugar

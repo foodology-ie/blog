@@ -9,5 +9,3 @@ plugins:
 collections:
   recipes:
     output: true
-  restaurants:
-    output: true

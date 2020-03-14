@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Almond Bakewell
+image: /assets/images/recipes/almond-bakewell.png
 ---
-
-![Almond Bakewell]({{ "/assets/images/recipes/almond-bakewell.png" | absolute_url }})
 
 Cake mixture
 ​175g soft butter
